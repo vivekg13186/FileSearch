@@ -1,0 +1,4 @@
+https://www.baeldung.com/lucene
+https://www.baeldung.com/apache-tika
+https://stackoverflow.com/questions/26101351/lucene-phrase-query-with-wildcards
+https://stackoverflow.com/questions/5484965/howto-perform-a-contains-search-rather-than-starts-with-using-lucene-net
